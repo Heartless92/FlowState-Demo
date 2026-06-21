@@ -1,4 +1,4 @@
-<img width="800" height="450" alt="wall hopping" src="https://github.com/user-attachments/assets/4bb56fc8-f6b0-49cb-99d9-77bd0b25712e" /><img width="800" height="450" alt="sprint showcase" src="https://github.com/user-attachments/assets/7aca75c8-606f-4fec-97a5-5de76828ecd8" /># FlowState-Demo
+FlowState-Demo
 FlowState Demo is my first game (prototype) to test different parkour movements and mechanics. The game has smooth fov effects and impacts from making different tricks
 Note that the game is very raw and i made it in just one day!
 
